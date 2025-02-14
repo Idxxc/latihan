@@ -1,2 +1,3 @@
 # latihan
 * P
+* O
