@@ -1,5 +1,1 @@
-# latihan  
-* B
-* O
-* L
-* D
+# latihan
