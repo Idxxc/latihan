@@ -1,1 +1,4 @@
 # latihan
+* P
+* O
+* L
